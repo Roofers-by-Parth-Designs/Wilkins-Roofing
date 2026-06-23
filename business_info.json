@@ -1,0 +1,20 @@
+{
+  "businessName": "Business Name",
+  "establishedYear": "2011",
+  "phone": {
+    "formatted": "(000) 000-0000",
+    "raw": "0000000000"
+  },
+  "location": {
+    "cityState": "City, ST"
+  },
+  "recentWorkCities": [
+    "City 1",
+    "City 2",
+    "City 3"
+  ],
+  "reviewCities": [
+    "City 1",
+    "City 2"
+  ]
+}
